@@ -1,0 +1,109 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+header{
+    background-color: white;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+h1{
+    display: inline-block;
+    vertical-align: 40%;
+    
+    
+    ;
+}
+main{
+    ;
+}
+section{
+    
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-left: 10%;
+    border-radius: 1%;
+    
+    
+}
+.checkbox{
+    color: green;
+    border: 2px solid green;
+    border-radius: 100%;
+
+}
+.cross{
+    color: red;
+    border: 2px solid red;
+    border-radius: 100%;
+
+}
+
+.editorial{
+    font-size: 10px;
+    color: white;
+    border: 2px solid rgb(16, 123, 158);
+    border-radius: 25%;
+    background-color: rgb(16, 123, 158);
+}
+.q1goals{
+    font-size: 10px;
+    color: white;
+    border: 2px solid rgb(146, 81, 146);
+    border-radius: 25%;
+    background-color: rgb(146, 81, 146);
+    
+}
+.recruiting{
+    font-size: 10px;
+    color: white;
+    border: 2px solid green;
+    border-radius: 25%;
+    background-color: green;
+}
+.mobile{
+    font-size: 10px;
+    color: white;
+    border: 2px solid orange;
+    border-radius: 25%;
+    background-color: orange;
+}
+.website{
+    font-size: 10px;
+    color: white;
+    border: 2px solid palevioletred;
+    border-radius: 25%;
+    background-color: palevioletred;
+}
+.sales{
+    font-size: 10px;
+    color: white;
+    border: 2px solid rgb(107, 177, 107);
+    border-radius: 25%;
+    background-color: rgb(107, 177, 107);
+}
+hr{
+    color: lightgray;
+}
+.addtask{
+    font-size: 12px;
+    color: white;
+    border-color: lightblue;
+    border-radius: 10%;
+    background-color: lightblue;
+    
+}
+.addsection{
+    font-size: 12px;
+    color: lightgray;
+    border-color: lightgray;
+    border-radius: 10%;
+    background-color: white;
+    
+}
